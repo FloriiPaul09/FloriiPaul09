@@ -8,7 +8,6 @@ I build web applications with **Angular** and **.NET / C#**, and I work on manuf
 
 - **Web applications** — Angular front ends and .NET back ends
 - **Manufacturing systems** — DELMIA Apriso development, customization and integrations
-- **Side projects** — pinned below
 
 ### Tech stack
 
