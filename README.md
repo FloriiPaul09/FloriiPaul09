@@ -16,7 +16,5 @@ I build web applications with **Angular** and **.NET / C#**, and I work on manuf
 
 ### Contact
 
-Open to freelance projects in Angular and .NET.
-
 - [LinkedIn](https://www.linkedin.com/in/paul-florii)
 - floriipaul@gmail.com
