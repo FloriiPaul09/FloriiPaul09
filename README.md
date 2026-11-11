@@ -2,7 +2,7 @@
 
 Full-stack developer based in Udine, Italy.
 
-I build web applications with **Angular** and **.NET / C#**, and I work on manufacturing software as a developer on **DELMIA Apriso (MES)** projects, where I hold five official certifications. Currently at beanTech.
+I build web applications with **Angular** and **.NET / C#**, and I work on manufacturing software as a developer on **DELMIA Apriso (MES)** projects, fully certificated.
 
 ### What I work on
 
